@@ -1,0 +1,19 @@
+Copyright (c) 2026 Prashanta Kharel. All rights reserved.
+
+This software, including its source code, simulation engine, curated etch-rate
+catalog, recipes, artwork and documentation (the "Software"), is proprietary.
+
+No license is granted to copy, modify, merge, publish, distribute, sublicense,
+reverse engineer, scrape, or sell the Software or any part of it, or to use it
+to build a competing product, without prior written permission from the
+copyright holder.
+
+You may use the hosted web application at https://kharelpk.github.io/etch-lab/
+for personal, educational and evaluation purposes.
+
+The etch-rate values originate from published work (K. R. Williams and
+R. S. Muller, J. Microelectromech. Syst. 5(4), 1996; K. R. Williams, K. Gupta and
+M. Wasilik, J. Microelectromech. Syst. 12(6), 2003). Cite those papers if you
+use the numbers.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
